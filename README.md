@@ -12,7 +12,9 @@
   Meta turns the traces left across several personal dashboards and ActivityWatch into one explorable record of daily life.
 </p>
 
-![Meta Dashboard brand artwork](docs/assets/readme/meta-observatory-hero.png)
+<p align="center">
+  <img src="docs/assets/readme/meta-observatory-hero.png" width="400" alt="Meta Dashboard brand artwork">
+</p>
 
 ## What Meta is
 
@@ -45,7 +47,7 @@ It is both a working personal instrument and an evolving research surface. The i
 
 The main screen is designed for scanning first and drilling down second. It brings the latest sleep estimate, range-aware KPIs, calendar history, source composition, and alerts into one view. Individual days open a detailed timeline rather than forcing every diagnostic signal onto the overview.
 
-![Meta Dashboard daily overview](docs/assets/readme/screenshots/dashboard-overview.png)
+![Meta Dashboard daily overview](docs/assets/readme/screenshots/dashboard-overview.webp)
 
 The calendar can be viewed through several lenses. Source colors show where time came from; sleep colors emphasize duration; work/play mode reuses the same classification model found in the deeper pressure charts. Navigation, range selection, and day detail stay linked so the dashboard works as both a current status display and a historical record.
 
